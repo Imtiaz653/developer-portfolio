@@ -1,6 +1,7 @@
 body {
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
+    margin: 5px;
 }
 
 .orange-color {
@@ -9,6 +10,7 @@ body {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -28,5 +30,8 @@ section {
     color: azure;
     font-weight: 700;
     border-radius: 5px;
+}
 
+.dream-big {
+    background-image: url(images/dream-bg.png);
 }
